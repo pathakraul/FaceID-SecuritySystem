@@ -5,10 +5,7 @@
 
 ## Description
 
-A longer description of your project goes here...
-
-
-## Note
-
-This project has been set up using PyScaffold 3.2.3. For details and usage
-information on PyScaffold see https://pyscaffold.org/.
+- FaceID-SecuritySystem is an biometric system for the access based on the face recognition.
+- Consists of two low cost systems which are capable to perform the face detection and recognition.
+- Notification to user with manual control on the access.
+- Database of the user profiles for automatic access.
