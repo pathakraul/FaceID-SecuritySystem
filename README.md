@@ -1,7 +1,6 @@
 ## FaceID-SecuritySystem
 
-
-Add a short description here!
+![System](docs/diagram.png)
 
 
 ## Description
