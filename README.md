@@ -9,3 +9,6 @@
 - Consists of two low cost systems which are capable to perform the face detection and recognition.
 - Notification to user with manual control on the access.
 - Database of the user profiles for automatic access.
+
+
+** This is work in progress **
