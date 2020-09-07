@@ -65,4 +65,7 @@
 
 ---
 
+### Other Potential Design
+- Why two seperate systems instead of single? Check this design also, May be better from the cost perspective but have to check all pros and cons
+
 Concise Binary Object Representation (CBOR) is a binary data serialization format loosely based on JSON. https://en.wikipedia.org/wiki/CBOR
