@@ -5,9 +5,8 @@
 - Need to design a system which can capture the face of the person and then infer the Age, Gender, Time. 
 - Sends the notification to the owner of the security system with details and also store in the database with an entry of the visit and person details with image.
 
-
 ### Thoughts
-- Can have system in two parts since we need to capture the image and also then run a deep learning based inference pipeline
+- Can have system in two parts since we need to capture the image and also then run a deep learning based inference pipeline.
 - One part is for capture of the image and another for the inference and the post processing and other logic.
 - system1 will capture the image and system2 will perform the post processing.
 - system1 has to transfer the image of the person and the current time to the system2.
