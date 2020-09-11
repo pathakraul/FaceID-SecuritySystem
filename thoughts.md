@@ -5,9 +5,8 @@
 - Need to design a system which can capture the face of the person and then infer the Age, Gender, Time. 
 - Sends the notification to the owner of the security system with details and also store in the database with an entry of the visit and person details with image.
 
-
 ### Thoughts
-- Can have system in two parts since we need to capture the image and also then run a deep learning based inference pipeline
+- Can have system in two parts since we need to capture the image and also then run a deep learning based inference pipeline.
 - One part is for capture of the image and another for the inference and the post processing and other logic.
 - system1 will capture the image and system2 will perform the post processing.
 - system1 has to transfer the image of the person and the current time to the system2.
@@ -65,6 +64,9 @@
 - system2 will notify the user of this event with some details and wait for the user for some feedback like deny the entry or give the entry or its also possible that if the person is known and the user already granted the access which is stored in the metadata of the face image in the database then it will just notify the user and will not wait for the feedback from the user.
 
 ---
+
+### Other Potential Design
+- Why two seperate systems instead of single? Check this design also, May be better from the cost perspective but have to check all pros and cons
 
 Concise Binary Object Representation (CBOR) is a binary data serialization format loosely based on JSON. https://en.wikipedia.org/wiki/CBOR
 
