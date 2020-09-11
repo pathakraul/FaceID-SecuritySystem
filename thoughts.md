@@ -67,3 +67,10 @@
 ---
 
 Concise Binary Object Representation (CBOR) is a binary data serialization format loosely based on JSON. https://en.wikipedia.org/wiki/CBOR
+
+
+### Start with this
+- Face recognition and detection on the raspberrypi with OpenCV and Dlib.
+- Check the performance of the model and check the DMIPS required
+- Implement a interfacing between the two boards for data and control channel
+
