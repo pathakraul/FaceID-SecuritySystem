@@ -12,3 +12,4 @@
 
 
 **This is work in progress**
+Research done so far is here -> [Analysis](thoughts.md)
